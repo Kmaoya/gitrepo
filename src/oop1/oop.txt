@@ -1,0 +1,34 @@
+OOP: object oriented programming
+
+Class
+Object
+Association
+Aggregation
+Composition
+
+Abstractions
+Encapsulation
+Polymorphism
+Inheritance
+
+**********************************************
+#Abstractions:
+Inheritance
+Abstract Class
+
+
+//Interface:
+
+// In an inheritance,you can't instantiate variable and create an object.
+//The interface cannot contain concrete(with implemetation) methods
+//In Interface onle one specifier is used-Public.
+
+
+//A java class can implement multiple java interface. it is necessary that the class must implement all the methods declared in
+//class should override all the abstract metods declared in the interface.
+//The interface allows sending a message to an object without concerning which classes it belong.
+//Class needs to provide functionally for the methods declared in the interface
+//ALL methods in an interface are implicity public and abstract
+//An interface canot be instantiated
+//An interface reference can point to objects of its implementing classes
+//
